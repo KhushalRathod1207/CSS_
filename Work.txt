@@ -1,0 +1,7 @@
+Github All commnand Lean Today Importance :
+
+1. Merge :
+
+Step 1 : Stage All changes 
+Step 2 : Commit write 
+Step 3 : Sync 
