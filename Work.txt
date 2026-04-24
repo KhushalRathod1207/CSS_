@@ -5,3 +5,12 @@ Github All commnand Lean Today Importance :
 Step 1 : Stage All changes 
 Step 2 : Commit write 
 Step 3 : Sync 
+
+
+Complete Puch code and in you Branch 
+
+
+2. Understand Brancg in code :
+
+Branch: Create New Branch :- main -- create Branch
+        Create New Branch from : main and dev Multiple branch you selct on branch where under create branch
