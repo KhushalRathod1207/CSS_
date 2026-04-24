@@ -1,4 +1,5 @@
-// Day 1 : comment - Variables - DataType
+wsceddddwsxdcex dsx
+ ep2epd devicePixelRatio - DataType
 
 // Single-line comments
 
